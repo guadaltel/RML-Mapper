@@ -4,7 +4,7 @@ RML Mapper
 Clone RML-Mapper
 ----------------
 
-	git clone --recursive https://github.com/RMLio/RML-Mapper.git
+	git clone --recursive https://github.com/guadaltel/RML-Mapper.git
 
 	git submodule update --init --recursive
 
